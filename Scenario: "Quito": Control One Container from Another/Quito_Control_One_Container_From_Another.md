@@ -4,7 +4,7 @@
 
 Watch the complete solution walkthrough before following the written steps:
 
-[Download or watch the Quito video tutorial](./Quito_Control_One_Container_From_Another_Tutorial.mov)
+[Watch the Quito video tutorial](https://youtu.be/W0XUw365UlY)
 
 ## Objective
 
